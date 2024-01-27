@@ -36,6 +36,8 @@ This project will be divided into two main phases:
 
 - Implement functionalities for reading, writing, and basic data manipulation (e.g., filtering, sorting).
 
+- Allow loading and saving data in different formats.
+
 - Integrate find/replace with basic string operations.
 
 - Conduct testing and finalize documentation for core functionalities. Compare the performance to tools with a similar functionality (e.g. pandas library)
@@ -53,6 +55,8 @@ This project will be divided into two main phases:
 ### 5. Deliverables
 
 - A functional DataFrame class.
+
+- A commandline utility.
 
 - Comprehensive documentation with usage instructions.
 
